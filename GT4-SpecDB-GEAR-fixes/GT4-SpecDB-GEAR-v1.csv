@@ -1,5 +1,5 @@
 ID,Label,Gear1st,Gear2nd,Gear3rd,Gear4th,Gear5th,Gear6th,Gear7th,Gear8th,Gear9th,Gear10th,Gear11th,GearReverse,finalgearMIN,finalgearMAX,finalgearDF,ExtraFinalGearRatio,Price,category,geartype,Nshift,gearflag,maxspeedMIN,maxspeedMAX,maxspeedDF,ExtraFinalGearUsage,LowGearPos,ReverseGearPos,GearPattern
-3573,ge_clio_renaultsport_20_02_a,+ 3091 +,1864,1321,1029,795,0,0,0,0,0,0,3545,4067,4067,4067,0,0,0,0,5,0,0,0,0,0,0,0,0
+3573,ge_clio_renaultsport_20_02_a,3091,1864,1321,1029,795,0,0,0,0,0,0,3545,4067,4067,4067,0,0,0,0,5,0,0,0,0,0,0,0,0
 3776,ge_taurus_sho_98_a,2771,1543,1000,694,0,0,0,0,0,0,0,2263,3765,3765,3765,0,0,0,2,4,0,0,0,0,0,0,0,0
 3823,ge__206cc_20_01_a,3454,1869,1360,1051,860,0,0,0,0,0,0,3333,3789,3789,3789,0,0,0,0,5,0,0,0,0,0,1,6,1
 3825,ge_clio_sport_v6_00_a,3909,2105,1483,1103,897,756,0,0,0,0,0,3660,3765,3765,3765,0,0,0,0,6,0,0,0,0,0,0,0,0
